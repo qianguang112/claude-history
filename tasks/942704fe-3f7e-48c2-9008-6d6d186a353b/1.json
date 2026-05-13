@@ -1,0 +1,8 @@
+{
+  "id": "1",
+  "subject": "创建 GitHub 仓库并上传 Claude Code 历史",
+  "description": "1. 创建 ~/claude-history/ 目录，复制 ~/.claude/ 内容（排除敏感文件）\n2. 创建 .gitignore 排除 token、缓存等\n3. git init + gh repo create + push",
+  "status": "in_progress",
+  "blocks": [],
+  "blockedBy": []
+}

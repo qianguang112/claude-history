@@ -1,0 +1,12 @@
+# 包含 API Token 的敏感文件
+settings.json
+settings.local.json
+
+# 缓存和临时文件
+cache/
+telemetry/
+session-env/
+shell-snapshots/
+
+# 系统文件
+.last-cleanup

@@ -1,0 +1,1 @@
+- [永远说中文](user_chinese_language.md) — 用户要求所有交流使用中文
